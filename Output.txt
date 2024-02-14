@@ -1,0 +1,76 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2024 Aspose Pty Ltd.
+krishan kumar
+6280457257 | krishana85289@gmail.com
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+EDUCATION
+PUNJAB TECHNICAL UNIVERSITY
+Electronics and Communications Engineering 2016- 2020 | Mohali, India
+CGPA: 7.1
+12th
+2015-2016
+Sanatan Vidya Mandir
+Percentage: 73
+10th
+2014-2015
+Sanatan Vidya Mandir
+Percentage: 73
+
+LINKS
+Github:// krishana85289
+LinkedIn:// krishan-kumar-499319186
+
+SKILLS
+MACHINE LEARNING DEEP LEARNING
+• NumPy • Pandas • Scikit-learn
+• Tensor Flow • Keras • Matplotlib
+Deep Learning Architectures:
+• convolution neural networks (CNNs)
+• recurrent neural networks (RNNs)
+• Transfer Learning
+PROGRAMMING
+• Python
+Familiar:
+• CSS
+• C++
+• C
+DATABASE
+• SQL server
+• MongoDB
+SUMMARY
+• Experienced professional with 2.6 years in the industry, specializing in SDET for 2 years and machine learning for 6 months.
+• Experienced professional with extensive knowledge and hands-on experience in Python, Selenium, Scikit-learn, NumPy, Pandas, matplotlib, and Beautiful Soup
+• Seeking to leverage this extensive knowledge and experience to transition seam- lessly into a rewarding role as a machine learning engineer
+EXPERIENCE
+TMOTIONS GLOBAL LIMITED | Test Engineer
+Jan 2021– 2023 | Mohali, India
+• Developed and executed test plans using Python Selenium for software applications with MongoDB and SQL databases
+• Pursued independent projects and self-study to enhance expertise in database management and query optimization.
+• Created concise and effective test cases in Python Selenium to ensure the quality and functionality of software applications.
+• Manual and automation testing
+• Generation of Test Plan, Specification, Test case, Test scripts & App, Reports
+
+RAPS-ITECH | |MACHINE LEARNING INTERN
+Jan 2020 – July 2020 | Chandigarh, India
+• Developed a Multi-Object Optimization Model to address complex optimization problems
+• Designed and implemented a Subspace Clustering Algorithm for efficient data clustering
+• Collaborated as an essential member of the analyst team at aprominent firm, actively contributing to projects for a major client.
+• Test Machine learning models using Evaluation Metrics and Cross-Validation
+• Hands-on experience in image processing libraries
+
+PROJECTS
+
+Property Rates Optimization Model
+12 A Model to conclude and decide the main and specific features affecting the price dynamics of properties.
+Corona Virus Recognition using Chest X-ray Images
+Using ml algorithms and image processing made a project that detects corona virus using x-ray.
+Face Aging using Conditional GANs with Keras implementation
+I have experience developing a face aging model using Conditional GANs and Keras. This involved training and optimizing the model on a large dataset, as well as creating a user-friendly interface for the model
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

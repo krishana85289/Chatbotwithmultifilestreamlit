@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+openai
+llamaapi
+langchain_experimental
+aspose-words
+beautifulsoup4
+InstructorEmbedding
+transformers
+pi
