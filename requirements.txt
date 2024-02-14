@@ -11,4 +11,4 @@ aspose-words
 beautifulsoup4
 InstructorEmbedding
 transformers
-pi
+langchain_google_genai
