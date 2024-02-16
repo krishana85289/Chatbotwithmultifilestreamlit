@@ -2,7 +2,7 @@ streamlit
 python-dotenv
 langchain
 PyPDF2
-chromadb
+chromadb 0.3.29
 faiss-cpu
 openai
 llamaapi
